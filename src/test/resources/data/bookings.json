@@ -1,0 +1,288 @@
+[
+  {
+    "firstname": "John",
+    "lastname": "Doe",
+    "totalprice": 123,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2021-01-01",
+      "checkout": "2021-01-10"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "totalprice": 456,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2021-02-01",
+      "checkout": "2021-02-15"
+    },
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Alice",
+    "lastname": "Johnson",
+    "totalprice": 789,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2021-03-01",
+      "checkout": "2021-03-10"
+    },
+    "additionalneeds": "Wi-Fi"
+  },
+  {
+    "firstname": "Bob",
+    "lastname": "Brown",
+    "totalprice": 321,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2021-04-01",
+      "checkout": "2021-04-10"
+    },
+    "additionalneeds": "Parking"
+  },
+  {
+    "firstname": "Charlie",
+    "lastname": "Wilson",
+    "totalprice": 654,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2021-05-01",
+      "checkout": "2021-05-10"
+    },
+    "additionalneeds": "Extra pillows"
+  },
+  {
+    "firstname": "David",
+    "lastname": "Garcia",
+    "totalprice": 987,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2021-06-01",
+      "checkout": "2021-06-10"
+    },
+    "additionalneeds": "Snacks"
+  },
+  {
+    "firstname": "Eve",
+    "lastname": "Martinez",
+    "totalprice": 147,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2021-07-01",
+      "checkout": "2021-07-10"
+    },
+    "additionalneeds": "Room service"
+  },
+  {
+    "firstname": "Frank",
+    "lastname": "Anderson",
+    "totalprice": 258,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2021-08-01",
+      "checkout": "2021-08-10"
+    },
+    "additionalneeds": "Mini bar"
+  },
+  {
+    "firstname": "Grace",
+    "lastname": "Thomas",
+    "totalprice": 369,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2021-09-01",
+      "checkout": "2021-09-10"
+    },
+    "additionalneeds": "Gym access"
+  },
+  {
+    "firstname": "Hank",
+    "lastname": "Moore",
+    "totalprice": 741,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2021-10-01",
+      "checkout": "2021-10-10"
+    },
+    "additionalneeds": "Airport transfer"
+  },
+  {
+    "firstname": "Ivy",
+    "lastname": "Jackson",
+    "totalprice": 852,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2021-11-01",
+      "checkout": "2021-11-10"
+    },
+    "additionalneeds": "City tour"
+  },
+  {
+    "firstname": "Jack",
+    "lastname": "White",
+    "totalprice": 963,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2021-12-01",
+      "checkout": "2021-12-10"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Kathy",
+    "lastname": "Harris",
+    "totalprice": 135,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-01-01",
+      "checkout": "2022-01-10"
+    },
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Liam",
+    "lastname": "Clark",
+    "totalprice": 246,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2022-02-01",
+      "checkout": "2022-02-10"
+    },
+    "additionalneeds": "Wi-Fi"
+  },
+  {
+    "firstname": "Mia",
+    "lastname": "Lewis",
+    "totalprice": 357,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-03-01",
+      "checkout": "2022-03-10"
+    },
+    "additionalneeds": "Parking"
+  },
+  {
+    "firstname": "Noah",
+    "lastname": "Walker",
+    "totalprice": 468,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2022-04-01",
+      "checkout": "2022-04-10"
+    },
+    "additionalneeds": "Extra pillows"
+  },
+  {
+    "firstname": "Olivia",
+    "lastname": "Hall",
+    "totalprice": 579,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-05-01",
+      "checkout": "2022-05-10"
+    },
+    "additionalneeds": "Snacks"
+  },
+  {
+    "firstname": "Paul",
+    "lastname": "Young",
+    "totalprice": 681,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2022-06-01",
+      "checkout": "2022-06-10"
+    },
+    "additionalneeds": "Room service"
+  },
+  {
+    "firstname": "Quinn",
+    "lastname": "King",
+    "totalprice": 792,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-07-01",
+      "checkout": "2022-07-10"
+    },
+    "additionalneeds": "Mini bar"
+  },
+  {
+    "firstname": "Ryan",
+    "lastname": "Scott",
+    "totalprice": 814,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2022-08-01",
+      "checkout": "2022-08-10"
+    },
+    "additionalneeds": "Gym access"
+  },
+  {
+    "firstname": "Sophia",
+    "lastname": "Green",
+    "totalprice": 925,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-09-01",
+      "checkout": "2022-09-10"
+    },
+    "additionalneeds": "Airport transfer"
+  },
+  {
+    "firstname": "Tom",
+    "lastname": "Baker",
+    "totalprice": 136,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2022-10-01",
+      "checkout": "2022-10-10"
+    },
+    "additionalneeds": "City tour"
+  },
+  {
+    "firstname": "Uma",
+    "lastname": "Adams",
+    "totalprice": 247,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-11-01",
+      "checkout": "2022-11-10"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Victor",
+    "lastname": "Campbell",
+    "totalprice": 358,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2022-12-01",
+      "checkout": "2022-12-10"
+    },
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Wendy",
+    "lastname": "Mitchell",
+    "totalprice": 469,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2023-01-01",
+      "checkout": "2023-01-10"
+    },
+    "additionalneeds": "Wi-Fi"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Carter",
+    "totalprice": 571,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2023-02-01",
+      "checkout": "2023-02-10"
+    },
+    "additionalneeds": "Parking"
+  }
+]
